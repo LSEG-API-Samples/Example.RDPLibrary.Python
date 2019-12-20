@@ -150,6 +150,6 @@ rdp.get_news_headlines(query = 'LFR', count = 350)
 
 # Help and Support
 
-If you have any questions regarding the API usage, please post them on the [Refinitiv Data Platform Q&A Forum](https://community.developers.thomsonreuters.com). The Refinitiv Developer Community will be very pleased to help you. 
+If you have any questions regarding the API usage, please post them on the [Refinitiv Data Platform Q&A Forum](https://community.developers.refinitiv.com/spaces/231/index.html). The Refinitiv Developer Community will be very pleased to help you. 
 
 
