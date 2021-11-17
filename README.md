@@ -144,9 +144,9 @@ rdp.get_news_headlines(query = 'LFR', count = 350)
 
 350 rows × 4 columns
 
-# Learning materals
+# Learning materials
 
- To learn more about the Refinitiv Data Platform Library for python just connect to the Refinitiv Developer Community. By [registering](https://developers.refinitiv.com/iam/register) and [login](https://developers.refinitiv.com/iam/login) to the Refinitiv Developer Community portal you will get free access to a number of learning materials like [Quick Start guides](https://developers.refinitiv.com/refinitiv-data-platform/refinitiv-data-platform-libraries/quick-start), [Tutorials](https://developers.refinitiv.com/refinitiv-data-platform/refinitiv-data-platform-libraries/learning), [Documentation](https://developers.refinitiv.com/refinitiv-data-platform/refinitiv-data-platform-libraries/docs) and much more.  
+ To learn more about the Refinitiv Data Platform Library for python just connect to the Refinitiv Developer Community. By [registering](https://developers.refinitiv.com/en/register) and [login](https://developers.refinitiv.com/content/devportal/en_us/initCookie.html) to the Refinitiv Developer Community portal you will get free access to a number of learning materials like [Quick Start guides](https://developers.refinitiv.com/en/api-catalog/refinitiv-data-platform/refinitiv-data-platform-libraries/quick-start), [Tutorials](https://developers.refinitiv.com/en/api-catalog/refinitiv-data-platform/refinitiv-data-platform-libraries/tutorials), [Documentation](https://developers.refinitiv.com/en/api-catalog/refinitiv-data-platform/refinitiv-data-platform-libraries/documentation) and much more.  
 
 # Help and Support
 
